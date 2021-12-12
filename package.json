@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lars-soderman/test-package/issues"
   },
-  "homepage": "https://github.com/lars-soderman/test-package#readme"
+  "homepage": "https://github.com/lars-soderman/test-package#readme",
+  "publishConfig": {
+    "@lars-soderman:registry": "https://npm.pkg.github.com"
+  }
 }
